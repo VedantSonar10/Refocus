@@ -9,7 +9,7 @@ Currently, two official plugins are available:
   # Refocus 🌟  
 **A Stunning Frontend Experience with React, GSAP, Locomotive Scroll, and ScrollTrigger**  
 
-[**Live Demo** 🌐](https://vedantsonar10.github.io/Refocus/)  
+[**Live Demo** 🌐](https://refocus-vert.vercel.app/)  
 
 ---
 
